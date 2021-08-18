@@ -1,7 +1,7 @@
 ### Hi there :wave::smiley:✨ 
 
 
-I'm Kevin Molina - [Mobile Developer for Android 📱](), [Firebase Developer Advocate 🔥](https://stars.github.com/profiles/rosariopfernandes/) and [Teacher at Instituto Tecnologico del Valle de Oaxaca 👨‍🏫](https://www.voaxaca.tecnm.mx/).
+I'm Kevin Molina - [Android Developer📱](), [Firebase Developer Advocate 🔥](https://stars.github.com/profiles/rosariopfernandes/) and [Teacher at Instituto Tecnologico del Valle de Oaxaca 👨‍🏫](https://www.voaxaca.tecnm.mx/).
 
 Co-founder at [Divaga Inc.](https://divaga.com.mx/)
 
