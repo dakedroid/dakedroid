@@ -11,7 +11,7 @@ If you want to know more about me:
 
 - :speaking_head: like to share knowledge and experience through Public Speaking (see [a list of all my presentations](https://github.com/rosariopfernandes/rosariopfernandes/blob/main/presentations.md)).
 
-- 🔭 I’m currently working on The Android Native App [DCEAPP](https://deceapp-deaf2.web.app/),...
+- 🔭 I’m currently working on The Android Native App [DCEAPP](https://deceapp-deaf2.web.app/) ...
 
 <!--
 
