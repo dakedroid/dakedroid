@@ -3,6 +3,8 @@
 
 I'm Kevin Molina - [Google Developer for Android :fire:](), [GitHub Star :star:](https://stars.github.com/profiles/rosariopfernandes/) and [Teacher at Instituto Tecnologico del Valle de Oaxaca](https://www.voaxaca.tecnm.mx/).
 
+Co-founder at [Divaga Inc.](https://divaga.com.mx/)
+
 If you want to know more about me, I:
 - :computer: am skilled in Firebase, Android, Kotlin and Java.
 - :busts_in_silhouette: am often contributing to
