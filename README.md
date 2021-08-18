@@ -39,6 +39,6 @@ Feel free to say hi on Twitter: [@molinagg__](https://twitter.com/_rpfernandes).
 
   <img align="left" alt="Jarroyo's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dakedroid&show_icons=true&hide_border=true&show_icons=true&count_private=true" />
 
-  <img align="left" alt="dakedroid's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dakedroid&hide_border=true&show_icons=true&count_private=true" />
+  <img align="right" alt="dakedroid's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dakedroid&hide_border=true&show_icons=true&count_private=true" />
 
 
