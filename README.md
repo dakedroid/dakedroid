@@ -1,10 +1,6 @@
 ### Hi there :wave::smiley:✨ 
 
 
-**dakedroid/dakedroid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-## :wave::smiley: [Hello there!](https://star-wars-memes.fandom.com/wiki/Hello_there!)
-
 I'm Molina - [Google Developer for Android :fire:](), [GitHub Star :star:](https://stars.github.com/profiles/rosariopfernandes/) and [Teacher at Instituto Tecnologico del Valle de Oaxaca](https://www.voaxaca.tecnm.mx/).
 
 If you want to know more about me, I:
