@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **dakedroid/dakedroid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ## :wave::smiley: [Hello there!](https://star-wars-memes.fandom.com/wiki/Hello_there!)
@@ -26,4 +26,3 @@ Feel free to say hi on Twitter: [@_rpfernandes](https://twitter.com/_rpfernandes
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
