@@ -5,7 +5,7 @@
 
 ## :wave::smiley: [Hello there!](https://star-wars-memes.fandom.com/wiki/Hello_there!)
 
-I'm Rosário - [Google Developer Expert for Firebase :fire:](https://developers.google.com/community/experts/directory/profile/profile-ros_C3_A1rio_pereira_fernandes), [GitHub Star :star:](https://stars.github.com/profiles/rosariopfernandes/) and [Google-Certified Android Developer](https://www.credential.net/9a5bf0e6-f5a9-4552-9b9a-e84c7b821c09).
+I'm Molina - [Google Developer for Android :fire:](), [GitHub Star :star:](https://stars.github.com/profiles/rosariopfernandes/) and [Teacher at Instituto Tecnologico del Valle de Oaxaca](https://www.voaxaca.tecnm.mx/).
 
 If you want to know more about me, I:
 - :computer: am skilled in Firebase, Android, Kotlin and Java.
