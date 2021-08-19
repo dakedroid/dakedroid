@@ -7,11 +7,20 @@ Co-founder at [Divaga Inc.](https://divaga-dd37b.web.app/home.html)
 
 If you want to know more about me:
 - :computer: I’m skilled in Firebase🔥, Android, Kotlin, Java and Web Design.
-
-
+- 🧭 I Have Background on Network Engineering, Linux Systems administration and Security 
 - :speaking_head: like to share knowledge and experience through Public Speaking
 - 🔭 I’m currently working on The Android Native App [DCEAPP](https://deceapp-deaf2.web.app/).
 - 🇲🇽 I speak both English and Spanish.
+
+
+<br>
+<p align="center">
+  <a href="https://divaga-dd37b.web.app/home.html"><img src="https://raw.githubusercontent.com/dakedroid/dakedroid/master/icons/website.png" height="50" width="130" alt="Website"></a>
+	<a href="https://www.youtube.com/channel/UCrAub-LcP7wFWTE_KpXeSjg/"><img src="https://raw.githubusercontent.com/dakedroid/dakedroid/master/icons/youtube.png" height="50" width="130" alt="YouTube"></a>
+	<a href="https://www.linkedin.com/in/kevin-molina-dakedroid/"><img src="https://raw.githubusercontent.com/dakedroid/dakedroid/master/icons/linked.png" height="50" width="130" alt="Link"></a>
+
+</p>
+
 
 <!--
 
@@ -52,15 +61,5 @@ If you want to know more about me:
 Feel free to say hi on Twitter: [@molinagg__](https://twitter.com/molinagg__).
  
  -->
-
-
-<br>
-<p align="center">
-  <a href="https://divaga-dd37b.web.app/home.html"><img src="https://raw.githubusercontent.com/dakedroid/dakedroid/master/icons/website.png" height="50" width="130" alt="Website"></a>
-	<a href="https://www.youtube.com/channel/UCrAub-LcP7wFWTE_KpXeSjg/"><img src="https://raw.githubusercontent.com/dakedroid/dakedroid/master/icons/youtube.png" height="50" width="130" alt="YouTube"></a>
-	<a href="https://www.linkedin.com/in/kevin-molina-dakedroid/"><img src="https://raw.githubusercontent.com/dakedroid/dakedroid/master/icons/linked.png" height="50" width="130" alt="Link"></a>
-
-</p>
-
  
 
