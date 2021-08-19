@@ -1,7 +1,7 @@
-### Hi there :wave::smiley:✨ 
+### Hi there :wave:, I'm Kevin Molina :smiley: 
 
 
-I'm Kevin Molina - [Android Developer📱](), [Developer Advocate 📜](https://stars.github.com/profiles/rosariopfernandes/) and [Teacher at Instituto Tecnologico del Valle de Oaxaca 👨‍🏫](https://www.voaxaca.tecnm.mx/).
+[Android Developer📱](https://developer.android.com/), [Developer Advocate 📜](https://developer.android.com/) and [Teacher at Instituto Tecnologico del Valle de Oaxaca 👨‍🏫](https://www.voaxaca.tecnm.mx/).
 
 <br>
 <p align="center">
