@@ -38,9 +38,7 @@ If you want to know more about me:
 Feel free to say hi on Twitter: [@molinagg__](https://twitter.com/_rpfernandes). I speak both English and Spanish. 🙂
 
 
-
-
-<div style="text-align:left" align="center">  <img align="center" alt="dakedroid's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dakedroid&hide_border=true&show_icons=true&count_private=true" />
- </div>.
+<img align="left" alt="dakedroid's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dakedroid&hide_border=true&show_icons=true&count_private=true" />
+ 
  
 
