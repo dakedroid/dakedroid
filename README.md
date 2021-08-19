@@ -1,12 +1,6 @@
 ### Hi there :wave:, I'm Kevin Molina :smiley: 
 <br>
 
-<p align="center">
-	<a href="https://twitter.com/molinagg__"><img src="https://img.shields.io/twitter/follow/molinagg__?label=@molinagg__&style=social" alt="Twitter"></a>  
-	<a href="https://www.linkedin.com/in/kevin-david-molina-g%C3%B3mez-50314a1bb/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>  
-  <a href="https://github.com/dakedroid"><img src="https://img.shields.io/github/followers/wajahatkarim3.svg?label=GitHub&style=social" alt="GitHub"></a>  
-	
-</p>
 
 
 Co-founder at [Divaga Inc.](https://divaga-dd37b.web.app/home.html)
@@ -20,6 +14,13 @@ If you want to know more about me:
 - 🇲🇽 I speak both English and Spanish.
 
 <!--
+
+<p align="center">
+	<a href="https://twitter.com/molinagg__"><img src="https://img.shields.io/twitter/follow/molinagg__?label=@molinagg__&style=social" alt="Twitter"></a>  
+	<a href="https://www.linkedin.com/in/kevin-david-molina-g%C3%B3mez-50314a1bb/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>  
+  <a href="https://github.com/dakedroid"><img src="https://img.shields.io/github/followers/wajahatkarim3.svg?label=GitHub&style=social" alt="GitHub"></a>  
+	
+</p>
 
 
 [Android Developer📱](https://developer.android.com/), [Developer Advocate 📜](https://developer.android.com/) and [Teacher at Instituto Tecnologico del Valle de Oaxaca 👨‍🏫](https://www.voaxaca.tecnm.mx/).
