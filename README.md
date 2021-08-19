@@ -56,8 +56,8 @@ Feel free to say hi on Twitter: [@molinagg__](https://twitter.com/molinagg__).
 <br>
 <p align="center">
   <a href="https://divaga-dd37b.web.app/home.html"><img src="https://raw.githubusercontent.com/dakedroid/dakedroid/master/icons/website.png" height="50" width="130" alt="Website"></a>
-	<a href="https://www.youtube.com/channel/UCrAub-LcP7wFWTE_KpXeSjg/"><img src="https://raw.githubusercontent.com/dakedroid/dakedroid/master/icons/con.png" height="50" width="130" alt="YouTube"></a>
-	<a href="https://www.youtube.com/channel/UCrAub-LcP7wFWTE_KpXeSjg/"><img src="icon.png" height="50" width="130" alt="Link"></a>
+	<a href="https://www.youtube.com/channel/UCrAub-LcP7wFWTE_KpXeSjg/"><img src="https://raw.githubusercontent.com/dakedroid/dakedroid/master/icons/youtube.png" height="50" width="130" alt="YouTube"></a>
+	<a href="https://www.youtube.com/channel/UCrAub-LcP7wFWTE_KpXeSjg/"><img src="https://raw.githubusercontent.com/dakedroid/dakedroid/master/icons/linked.png" height="50" width="130" alt="Link"></a>
 
 </p>
 
