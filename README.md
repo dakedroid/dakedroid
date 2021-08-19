@@ -9,7 +9,7 @@ If you want to know more about me:
 - :computer: I’m skilled in Firebase, Android, Kotlin, Java and Web Design.
 
 
-- :speaking_head: like to share knowledge and experience through Public Speaking (see [a list of all my presentations](https://github.com/rosariopfernandes/rosariopfernandes/blob/main/presentations.md)).
+- :speaking_head: like to share knowledge and experience through Public Speaking (see [a list of all my presentations](https://www.youtube.com/channel/UCrAub-LcP7wFWTE_KpXeSjg)).
 
 - 🔭 I’m currently working on The Android Native App [DCEAPP](https://deceapp-deaf2.web.app/) ...
 
