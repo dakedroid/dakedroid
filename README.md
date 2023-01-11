@@ -61,4 +61,5 @@ Feel free to say hi on Twitter: [@molinagg__](https://twitter.com/molinagg__).
  
  -->
  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dakedroid&label=Profile%20views&color=0e75b6&style=flat" alt="dakedroid" /> </p>
 
