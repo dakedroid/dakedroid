@@ -5,7 +5,7 @@
 Co-founder at [Divaga Inc.](https://divaga-dd37b.web.app/home.html)
 
 If you want to know more about me:
-- :computer: I’m skilled in Firebase🔥, Android, Kotlin, Java and Web Design.
+- :computer: I’m skilled in Android, SwiftUI, Firebase🔥, Kotlin, Java, Swift and Web Design.
 - 🧭 I Have Background on Network Engineering, Linux Systems administration and Security 
 - :speaking_head: like to share knowledge and experience through Public Speaking
 - 🔭 I’m currently working with a goverment web app [Tuxtepec](https://tuxtepec.gob.mx/).
